@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50dd0942-825a-4038-bbf2-9088316161d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Blog_Website_Flask_Jinja.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="50dd0942-825a-4038-bbf2-9088316161d2" name="Changes" comment="initial commit on blog website tutorial (57. Yu)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DSD-resilience"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DSD-resilience/Python_Programming",
+    "accountId": "e66aacc9-880a-498f-b66c-2c60ef47d2b6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -66,6 +68,35 @@
       <option name="presentableId" value="Default" />
       <updated>1770605633103</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit on blog website tutorial (57. Yu)">
+      <option name="closed" value="true" />
+      <created>1770606588139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770606588139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit on blog website tutorial (57. Yu)">
+      <option name="closed" value="true" />
+      <created>1770606604116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770606604116</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit on blog website tutorial (57. Yu)">
+      <option name="closed" value="true" />
+      <created>1770606794398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770606794398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit on blog website tutorial (57. Yu)" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit on blog website tutorial (57. Yu)" />
   </component>
 </project>
