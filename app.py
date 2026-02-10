@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     current_year = datetime.now().year
-    return render_template("index.html", name="John")
+    return render_template("index.html", name="John", year=current_year)
 
 if __name__ == "__main__":
     app.run(debug=True)
