@@ -7,6 +7,6 @@ app = Flask(__name__)
 def home():
     return "Hello, Flask!"
 
-# Run the app
+# Run the app test
 if __name__ == '__main__':
     app.run(debug=True)
